@@ -1,6 +1,6 @@
 # Проект 0.1.    Игра: Угадай число
 
-[Проверка программы]
+[Выполнение программы](https://colab.research.google.com/drive/1v0h1UeK9ndtqA3W_PVhGXkAdL9vlmDkd)
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_0.1/readmydescription.md#Описание-проекта)  
