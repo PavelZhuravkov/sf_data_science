@@ -1,5 +1,7 @@
 # Проект 0.1.    Игра: Угадай число
 
+[Проверка программы]
+
 ## Оглавление  
 [1. Описание проекта](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_0.1/readmydescription.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_0.1/readmydescription.md#Какой-кейс-решаем)  
