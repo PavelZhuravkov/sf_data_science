@@ -3,7 +3,7 @@
 [Выполнение программы](https://colab.research.google.com/drive/1v0h1UeK9ndtqA3W_PVhGXkAdL9vlmDkd)
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_0.1/readmydescription.md#Описание-проекта)  
+[1. Описание проекта](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0/readme.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_0.1/readmydescription.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_0.1/readmydescription.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_0.1/readmydescription.md#Этапы-работы-над-проектом)  
