@@ -40,7 +40,7 @@
 - Учимся работать с GITHUB.
 
 ### Краткая информация о данных
-[Ссылка на датасет:](https://drive.google.com/file/d/18QDmJudifCMkcT4fWnqCy-ba-_A8nGj7/view?usp=share_link)
+[Ссылка на датасет](https://drive.google.com/file/d/18QDmJudifCMkcT4fWnqCy-ba-_A8nGj7/view?usp=share_link)
   
 :arrow_up: [к оглавлению](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0/readme.md#Оглавление)
 
