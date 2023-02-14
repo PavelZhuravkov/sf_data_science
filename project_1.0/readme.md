@@ -4,16 +4,16 @@
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0/readme.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_0.1/readmydescription.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_0.1/readmydescription.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_0.1/readmydescription.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_0.1/readmydescription.md#Результат)    
-[6. Выводы](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_0.1/readmydescription.md#Выводы) 
+[2. Какой кейс решаем?](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0/readme.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0/readme.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0/readme.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0/readme.md#Результат)    
+[6. Выводы](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0/readme.md#Выводы) 
 
 ### Описание проекта    
 Анализ данных из базы резюме, выгруженной с сайта hh.ru.
 
-:arrow_up: [к оглавлению](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_0.1/readmydescription.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0/readme.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -42,7 +42,7 @@
 ### Краткая информация о данных
 [Ссылка на датасет:](_________)
   
-:arrow_up: [к оглавлению](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_0.1/readmydescription.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0/readme.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -51,16 +51,16 @@
 3. Разведывательный анализ
 4. Очистка данных
 
-:arrow_up: [к оглавлению](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_0.1/readmydescription.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0/readme.md#Оглавление)
 
 
 ### Результаты:  
 [Ноутбук с решениями](________)
 
-:arrow_up: [к оглавлению](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_0.1/readmydescription.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0/readme.md#Оглавление)
 
 
 ### Выводы:  
 . . . .
 
-:arrow_up: [к оглавлению](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_0.1/readmydescription.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0/readme.md#Оглавление)
