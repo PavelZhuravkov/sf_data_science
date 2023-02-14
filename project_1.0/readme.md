@@ -1,6 +1,6 @@
 # Проект 1.0.    Анализ резюме из HEADHUNTER
 
-[Выполнение программы](https://colab.research.google.com/drive/1v0h1UeK9ndtqA3W_PVhGXkAdL9vlmDkd)
+[Ноутбук с решениями](https://github.com/PavelZhuravkov/sf_data_science/blob/main/project_1.0/Ноутбук%20с%20заданиями.ipynb)
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0/readme.md#Описание-проекта)  
@@ -55,7 +55,7 @@
 
 
 ### Результаты:  
-[Ноутбук с решениями](________)
+[Ноутбук с решениями](https://github.com/PavelZhuravkov/sf_data_science/blob/main/project_1.0/Ноутбук%20с%20заданиями.ipynb)
 
 :arrow_up: [к оглавлению](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0/readme.md#Оглавление)
 
