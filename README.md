@@ -9,6 +9,6 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 * [Проект 0.1.  Игра: Угадай число. (вариант 2)](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_0.1)
 
-* [Проект 1.  Анализ резюме из Head Hunter](github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0)
+* [Проект 1.0. Анализ резюме из Head Hunter](github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0)
 
 * [Проект 2.  _______](_______)
