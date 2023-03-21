@@ -11,4 +11,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 * [Проект 1.0. Анализ резюме из Head Hunter](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0)
 
-* [Проект 2.  _______](_______)
+* [Проект 2.0  Анализ резюме из Head Hunter (SQL)](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_2.0)
