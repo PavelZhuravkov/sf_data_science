@@ -1,6 +1,6 @@
 # Проект 2.0.    Анализ резюме из HEADHUNTER(SQL)
 
-[Ноутбук с решениями](https://github.com/PavelZhuravkov/sf_data_science/blob/main/project_2.0/Ноутбук%20с%20заданиями.ipynb)
+[Ноутбук с решениями](https://github.com/PavelZhuravkov/sf_data_science/blob/main/project_2.0/2_Ноутбук%20с%20заданиями.ipynb)
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_2.0/readme.md#Описание-проекта)  
@@ -41,7 +41,7 @@
 ### Краткая информация о данных
 [Ссылка на датасет](https://drive.google.com/file/d/18QDmJudifCMkcT4fWnqCy-ba-_A8nGj7/view?usp=share_link)
   
-:arrow_up: [к оглавлению](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0/readme.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_2.0/readme.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -54,7 +54,7 @@
 
 
 ### Результаты:  
-[Ноутбук с решениями](https://github.com/PavelZhuravkov/sf_data_science/blob/main/project_2.0/Ноутбук%20с%20заданиями.ipynb)
+[Ноутбук с решениями](https://github.com/PavelZhuravkov/sf_data_science/blob/main/project_2.0/2_Ноутбук%20с%20заданиями.ipynb)
 
 :arrow_up: [к оглавлению](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_2.0/readme.md#Оглавление)
 
