@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 # csv big file
 dst-3.0_16_1_hh_database.csv
+# Данные соединения проект 2.0
+data_connection.ipynb
+
