@@ -39,7 +39,7 @@
 - Учимся работать с GITHUB.
 
 ### Краткая информация о данных
-[Ссылка на датасет](https://drive.google.com/file/d/18QDmJudifCMkcT4fWnqCy-ba-_A8nGj7/view?usp=share_link)
+Все необходимые таблицы находятся в схеме public базы данных project_sql
   
 :arrow_up: [к оглавлению](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_2.0/readme.md#Оглавление)
 
