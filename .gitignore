@@ -131,4 +131,6 @@ dmypy.json
 dst-3.0_16_1_hh_database.csv
 # Данные соединения проект 2.0
 data_connection.ipynb
+# Данные по EDA-5
+ab_data_tourist.csv
 
