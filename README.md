@@ -12,3 +12,5 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 1.0. Анализ резюме из Head Hunter](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_1.0)
 
 * [Проект 2.0  Анализ резюме из Head Hunter (SQL)](https://github.com/PavelZhuravkov/sf_data_science/tree/main/project_2.0)
+
+* [Проект 3.0 EDA + Feature Engineering](https://github.com/PavelZhuravkov/sf_data_science/blob/main/projec_3.0/project-3-eda-feature-engineering.ipynb))
