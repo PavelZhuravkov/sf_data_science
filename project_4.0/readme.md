@@ -1,7 +1,7 @@
 # Проект 4. Задача классификации.
 
 
-[Ноутбук с решениями на GITHUB ]()
+[Ноутбук с решениями на GITHUB ](https://github.com/PavelZhuravkov/sf_data_science/blob/main/project_4.0/Project_4_ML.ipynb)
 
 ## Оглавление
 
@@ -35,7 +35,7 @@
 
 Что практикуем Главная задача — добиться максимальной точности модели
 
-arrow_up к оглавлению
+:arrow_up:к оглавлению
 
 ## Этапы работы над проектом
 
@@ -49,6 +49,6 @@ arrow_up к оглавлению
 ## Результат
 
 
-[Ноутбук с решениями на GITHUB ]()
+[Ноутбук с решениями на GITHUB ](https://github.com/PavelZhuravkov/sf_data_science/blob/main/project_4.0/Project_4_ML.ipynb)
 
-arrow_up к оглавлению
+:arrow_up:к оглавлению
