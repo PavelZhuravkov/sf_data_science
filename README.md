@@ -20,3 +20,5 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 5.0 Задача регрессии](https://github.com/PavelZhuravkov/sf_data_science/blob/main/project_5.0/readme.md)
 
 * [Проект 6.0 Сегментирование клиентов онлайн-магазина подарков](https://github.com/PavelZhuravkov/sf_data_science/blob/main/project_6.0/readme.md)
+
+* [Дипломный проект. Определение уязвимых групп населения](https://github.com/PavelZhuravkov/sf_data_science/blob/main/DS_diplom/readme.md)
