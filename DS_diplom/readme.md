@@ -2,6 +2,7 @@
 
 
 [Ноутбук с решениями на GITHUB (Компиляция датасета) ]((https://github.com/PavelZhuravkov/sf_data_science/blob/main/Дипломная_работа_Компиляция_датасета_.ipynb)
+
 [Ноутбук с решениями на GITHUB (EDA, ML, Analysis clusters) ](https://github.com/PavelZhuravkov/sf_data_science/blob/main/%22Дипломная_работа_EDA%2C_ML%2C_Analysis_clusters_%22.ipynb)
 
 ## Оглавление
@@ -59,6 +60,7 @@
 
 
 [Ноутбук с решениями на GITHUB (Компиляция датасета) ]((https://github.com/PavelZhuravkov/sf_data_science/blob/main/Дипломная_работа_Компиляция_датасета_.ipynb)
+
 [Ноутбук с решениями на GITHUB (EDA, ML, Analysis clusters) ](https://github.com/PavelZhuravkov/sf_data_science/blob/main/%22Дипломная_работа_EDA%2C_ML%2C_Analysis_clusters_%22.ipynb)
 
 arrow_up к оглавлению
