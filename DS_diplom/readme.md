@@ -1,9 +1,9 @@
 # Дипломный проект. Определение уязвимых групп населения.
 
 
-[Ноутбук с решениями на GITHUB (Компиляция датасета) ]((https://github.com/PavelZhuravkov/sf_data_science/blob/main/Дипломная_работа_Компиляция_датасета_.ipynb)
+[Ноутбук с решениями на GITHUB (Компиляция датасета)]((https://colab.research.google.com/drive/1VVpjzINRzwsAty0JUL58ICa9zWsaE62V#scrollTo=1ktx8BHOCNgd)
 
-[Ноутбук с решениями на GITHUB (EDA, ML, Analysis clusters) ](https://github.com/PavelZhuravkov/sf_data_science/blob/main/%22Дипломная_работа_EDA%2C_ML%2C_Analysis_clusters_%22.ipynb)
+[Ноутбук с решениями на GITHUB (EDA, ML, Analysis clusters)](https://colab.research.google.com/drive/1hCXkSKlXyBcTZby22fsTjIwyaWFjZqEx#scrollTo=H5IyiHfe8izQ)
 
 ## Оглавление
 
@@ -59,8 +59,8 @@
 ## Результат
 
 
-[Ноутбук с решениями на GITHUB (Компиляция датасета) ]((https://github.com/PavelZhuravkov/sf_data_science/blob/main/Дипломная_работа_Компиляция_датасета_.ipynb)
+[Ноутбук с решениями на GITHUB (Компиляция датасета) ]((https://colab.research.google.com/drive/1VVpjzINRzwsAty0JUL58ICa9zWsaE62V#scrollTo=1ktx8BHOCNgd)
 
-[Ноутбук с решениями на GITHUB (EDA, ML, Analysis clusters) ](https://github.com/PavelZhuravkov/sf_data_science/blob/main/%22Дипломная_работа_EDA%2C_ML%2C_Analysis_clusters_%22.ipynb)
+[Ноутбук с решениями на GITHUB (EDA, ML, Analysis clusters) ](https://colab.research.google.com/drive/1hCXkSKlXyBcTZby22fsTjIwyaWFjZqEx#scrollTo=H5IyiHfe8izQ)
 
 arrow_up к оглавлению
